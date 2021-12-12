@@ -1,8 +1,27 @@
 ## Who am I?
 I'am a full-stack developer currently focused in front, a blockchain enthusiast, passionate about trying to make impossible come true.
 
-## Languages
+## Academic
+- Computer Science (Bachelor degree) [UNIP - Bauru/SP]
+- Information Technology (Technical) [Escola Técnica Estadual - Ibitinga/SP]
 
+## Experience
+- CSS
+- CSS in JS
+- HTML
+- Java
+- JavaScript
+- Jest
+- NextJS
+- PHP
+- PL/SQL
+- Python
+- React
+- SCSS
+- Solidity
+- TypeScript
+
+## Language
 Lang | level
 --- | ---
 Portuguese | Fluent/Native
