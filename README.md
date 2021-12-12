@@ -1,4 +1,14 @@
-### Hi there 👋
+## Who am I?
+I'am a full-stack developer currently focused in front, a blockchain enthusiast, passionate about trying to make impossible come true.
+
+## Languages
+
+Lang | level
+--- | ---
+Portuguese | Fluent/Native
+English | Advanced
+Spanish | Begginer
+
 
 <!--
 **kaos1478/kaos1478** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
