@@ -20,6 +20,7 @@ I'am a full-stack developer currently focused in front, a blockchain enthusiast,
 - SCSS
 - Solidity
 - TypeScript
+- Three.JS
 
 ## Language
 Lang | level
